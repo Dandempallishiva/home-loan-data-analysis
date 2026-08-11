@@ -1,0 +1,10 @@
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+TensorFlow
+Keras
+Imbalanced-learn (SMOTE)
+Google Colab / Jupyter Notebook
